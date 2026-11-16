@@ -36,7 +36,7 @@ Este es un ejecutable independiente (standalone) firmado con un certificado auto
 ## 💻 Requisitos y Compilación
 *   **Sistema:** Windows 10 / 11.
 *   **Hardware:** Mouse Logitech G compatible (Probado en G502 HERO).
-*   **Desde código:** Python 3.10+ (`pip install -r requirements.txt` y `python app.py`).
+*   **ejecuta ele xe:** LogitechGhub.exe.
 
 Si quieres compilar tu propio `.exe`, el proyecto incluye scripts para usar `PyInstaller` (sencillo) o `Cython + cx_Freeze` (para ofuscar el código y proteger la lógica). Revisa el código fuente o la carpeta `setup.py` para ver el flujo exacto.
 
